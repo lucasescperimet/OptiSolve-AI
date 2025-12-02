@@ -1,0 +1,8 @@
+{
+  "name": "OptiSolve AI by Natanael",
+  "description": "Analyze book content from images or text using Gemini AI.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
